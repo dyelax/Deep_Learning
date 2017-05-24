@@ -2,7 +2,9 @@
 A directory of my deep learning projects.
 
 ## NVIDIA
-For the spring of 2017 I will be working on deep learning projects as a Solution Architect Intern at NVIDIA.
+I spent my spring 2017 semester working on deep learning applications as a Solution Architect Intern at NVIDIA.
+- Unsupervised Learning for Drug Discovery: Implemented Stacked Denoising Autoencoder and Deep Embedded Clustering (DEC) models in TensorFlow to help a pharmaceutical customer automate their drug discovery process.
+- Domain Randomization for VR Object Mapping: Experimented using 3D object localization to map real-world objects (e.g. chairs, tables) into VR. Generated synthetic sample data in Unreal Engine 4 using techniques for domain randomization, which enables theoretically unlimited training dataset size.
 
 ## Research
 I research deep reinforcement learning at Brown University under Michael Littman. These are projects I've done in the lab:
